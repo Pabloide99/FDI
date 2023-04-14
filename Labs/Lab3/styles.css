@@ -1,0 +1,56 @@
+body {
+    background: url("img/peces.jpg");
+}
+
+#contenedor {
+    width: 960px;
+    background-color: #09D8E2;
+    margin: 0 auto;
+    padding: 25px;
+    height: 100%;
+}
+
+#header {
+    text-align: center;
+}
+
+#header h1 {
+    font-family: 'Chango', cursive;
+}
+
+#header ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+#header ul li a {
+    text-decoration: none;
+    background-color: #5CDDE3;
+    padding: 15px;
+    color: #040404;
+}
+
+#header ul li a:hover {
+    background-color: #14A4AB;
+    text-decoration: underline;
+}
+
+#video {
+    font-family: 'Chango', cursive;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.fotosalimentos {
+    
+    width: 300px;
+
+}
+
+#alimentos {
+    padding-top: 25px;
+    text-align: center;
+          
+}
+
+
