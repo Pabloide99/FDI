@@ -1,0 +1,60 @@
+body {
+    background: url("img/ciudad.jpg");
+}
+
+#contenedor {
+    width: 960px;
+    background-color: #fbcb2ed7;
+    margin: 0 auto;
+    padding: 25px;
+    height: 100%;
+}
+
+#header {
+    text-align: center;
+}
+
+#header h1 {
+    font-family: 'Roboto', cursive;
+}
+
+#header ul li {
+    display: inline;
+    margin: 0 10px;
+    font-family: 'Roboto', cursive;
+
+}
+
+#header ul li a {
+    text-decoration: none;
+    background-color: #5CDDE3;
+    padding: 15px;
+    color: #040404;
+    font-family: 'Roboto', cursive;
+
+}
+
+#header ul li a:hover {
+    background-color: #14A4AB;
+    text-decoration: underline;
+}
+
+#video {
+    font-family: 'Chango', cursive;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.fotosalimentos {
+    
+    width: 300px;
+
+}
+
+#alimentos {
+    padding-top: 25px;
+    text-align: center;
+          
+}
+
+
